@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4S39B4422Q.com.chowmill.vendor",
+        "paths": ["/login", "/login/*"]
+      }
+    ]
+  }
+}
